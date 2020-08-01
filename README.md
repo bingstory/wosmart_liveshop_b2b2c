@@ -28,7 +28,7 @@ WoSmart多商户B2B2C直播商城，包含APP端、小程序端、H5端，后端
 
 
 #### 直播导购功能
-<img src="/readme/images/直播导购.jpg"  width="80%"> 
+<img src="https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/直播导购.jpg"  width="80%"> 
 
 #### 多商户功能
 商家入驻  
@@ -51,8 +51,9 @@ WoSmart多商户B2B2C直播商城，包含APP端、小程序端、H5端，后端
 社会化分享  
 ···
 ###  前端界面展示
-![](/readme/images/产品图片1.jpg)
-![](/readme/images/产品图片2.jpg)
+[![8dK2UU.md.png](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/产品图片1.jpg)](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/产品图片1.jpg)
+[!](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/产品图片1.jpg)
+![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/产品图片2.jpg)
 
 
 #### 特别声明
