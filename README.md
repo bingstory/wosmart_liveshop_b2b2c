@@ -50,9 +50,10 @@ WoSmart多商户B2B2C直播商城，包含APP端、小程序端、H5端，后端
 数据统计  
 社会化分享  
 ···
+
 ###  前端界面展示
 [![8dK2UU.md.png](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/产品图片1.jpg)](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/产品图片1.jpg)
-[!](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/产品图片1.jpg)
+![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/产品图片1.jpg)
 ![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/产品图片2.jpg)
 
 
@@ -60,7 +61,7 @@ WoSmart多商户B2B2C直播商城，包含APP端、小程序端、H5端，后端
 您通过官方渠道获取到的WoSmart商城源码仅供您个人或您公司在法律允许的范围内使用，如果您存在以下情形之一，您将会被踢出售后群并被取消WoSmart商城使用资格：
 1. 将WoSmart商城源码分享给他人。
 2. 将WoSmart商城源码用于违法犯罪。
-3.  您可基于源码为您的客户做安装部署或二次开发，但禁止包含但不限于上传到互联网平台、线上或线下传播、转让、倒卖WoSmart商城源码等行为。
+3. 您可基于源码为您的客户做安装部署或二次开发，但禁止包含但不限于上传到互联网平台、线上或线下传播、转让、倒卖WoSmart商城源码等行为。
 
 如果你存在以上任何行为，除承担上述后果外，还应当承担停止侵权、赔礼道歉、赔偿商誉损失、经济损失、维权成本等所有法律责任。
 
