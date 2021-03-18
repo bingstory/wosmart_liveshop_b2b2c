@@ -66,7 +66,7 @@ WoShop多商户B2B2C直播商城，包含APP端、小程序端、H5端，后端�
 
 本项目包含的第三方源码和二进制文件之版权信息另行标注。
 
-版权所有Copyright © 2015-2020 by WoSmart商城 (https://www.s1107.com)
+版权所有Copyright © 2015-2020 by WoShop商城 (https://www.s1107.com)
 
 All rights reserved。
 
