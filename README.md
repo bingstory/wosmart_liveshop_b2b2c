@@ -33,9 +33,9 @@ WoShop多商户B2B2C直播商城，包含APP端、小程序端、H5端，后端�
 
 商家管理后台 https://woshop.s1107.net/shop/ 账号：15527344177 密码：123456
 
-![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/woshop演示PPT第一张.jpg)
-![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/woshop演示PPT第二张.jpg)
-![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/woshop演示PPT第三张.jpg)
-![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/woshop演示PPT第四张.jpg)
+![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/woshopPPT001.jpg)
+![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/woshopPPT002.jpg)
+![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/woshopPPT003.jpg)
+![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/woshopPPT004.jpg)
 
 
