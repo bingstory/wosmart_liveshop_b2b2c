@@ -5,12 +5,6 @@
 #### 介绍
 WoShop多商户B2B2C直播商城，包含APP端、小程序端、H5端，后端使用ThinkPHP5框架开发，前端采用uni-app框架，已做分包处理，支持负载均衡部署。
 
-
-#### 官网
- 
- [官网地址](https://www.s1107.com)
- | [WoShop技术社区](http://a-b-c.com.cn)
-
 #### 软件架构
 前端框架：uni-app,vue
 
@@ -24,53 +18,24 @@ WoShop多商户B2B2C直播商城，包含APP端、小程序端、H5端，后端�
 
 小程序端已解决没有直播资质的情况下，仍可开播的技术问题。
 
+在线演示
+【APP端】 安卓版：http://download.s1107.net/woshop 苹果版：https://tlntkf.tokyo/cdaICa
 
-#### 直播导购功能
-<img src="https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/直播导购.jpg"  width="80%"> 
+【小程序端】：请先提供微信号，添加体验权限后，扫码查看小程序演示
 
-#### 多商户功能
-商家入驻  
-自营商品  
-店铺街展示  
-商品管理  
-独立店铺  
-订单分单  
-分销功能  
-优惠券  
-限时折扣  
-限时秒杀  
-人人拼团  
-团购  
-行业管理  
-商家提现  
-会员权益  
-客服功能  
-数据统计  
-社会化分享  
-···
+【H5端】：https://woshop.s1107.net/h5
 
-###  前端界面展示
-![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/产品图片1.jpg)
-![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/产品图片2.jpg)
+主播/商家体验账号：15527344177 密码：123456 开播流程： 登录主播账号，个人中心->商家管理->我要直播
 
+普通用户：15522222222 密码：123456
 
-#### 特别声明
-您通过官方渠道获取到的WoShop商城源码仅供您个人或您公司在法律允许的范围内使用，如果您存在以下情形之一，您将会被踢出售后群并被取消WoShop商城使用资格：
-1. 将WoShop商城源码分享给他人。
-2. 将WoShop商城源码用于违法犯罪。
-3. 您可基于源码为您的客户做安装部署或二次开发，但禁止包含但不限于上传到互联网平台、线上或线下传播、转让、倒卖WoShop商城源码等行为。
+总管理后台 https://woshop.s1107.net/admin/ 账号：admin 密码：123456
 
-如果你存在以上任何行为，除承担上述后果外，还应当承担停止侵权、赔礼道歉、赔偿商誉损失、经济损失、维权成本等所有法律责任。
+商家管理后台 https://woshop.s1107.net/shop/ 账号：15527344177 密码：123456
 
-### 版权信息
-
-本项目包含的第三方源码和二进制文件之版权信息另行标注。
-
-版权所有Copyright © 2015-2020 by WoShop商城 (https://www.s1107.com)
-
-All rights reserved。
-
-WoShop商城著作权所有者为武汉一一零七科技有限公司。    
-    
+![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/woshop演示PPT第一张.jpg)
+![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/woshop演示PPT第二张.jpg)
+![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/woshop演示PPT第三张.jpg)
+![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/woshop演示PPT第四张.jpg)
 
 
