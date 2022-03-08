@@ -29,17 +29,27 @@ WoShop多商户B2B2C直播商城，包含APP端、小程序端、H5端，后端�
 
 【H5端】：https://demo.wo-shop.net/h5
 
-主播/商家体验账号：15527344177 密码：123456 开播流程： 登录主播账号，个人中心->商家管理->我要直播
+体验账号：18812345678 密码：123456
+开播流程： 登录主播账号，个人中心->商家管理->我要直播
 
-普通用户：15522222222 密码：123456
 
-总管理后台 https://woshop.s1107.net/admin/ 账号：admin 密码：123456
+总管理后台 
 
-商家管理后台 https://woshop.s1107.net/shop/ 账号：15527344177 密码：123456
+https://demo.wo-shop.net/admin/ 
 
-![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/woshopPPT001.jpg)
-![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/woshopPPT002.jpg)
-![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/woshopPPT003.jpg)
-![](https://wosmart-1258844920.cos.ap-nanjing.myqcloud.com/readme/images/woshopPPT004.jpg)
+账号：admin 
+
+密码：123456
+
+
+商家管理后台 
+
+https://demo.wo-shop.net/shop/ 
+
+账号：15527344177 
+
+密码：123456
+
+
 
 
