@@ -23,7 +23,7 @@ WoShop多商户B2B2C直播商城，包含APP端、小程序端、H5端，后端�
 
 安卓版：https://www.pgyer.com/woshop
 
-苹果版：AppStore搜索 woshop商城
+苹果版：AppStore搜索"WoShop商城"
 
 【小程序端】：微信搜索 “WoShop好物”
 
